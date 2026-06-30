@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: white;
+}
+
+.header {
+  background-color: rgb(158, 202, 225);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Categoryheader {
+  background-color: rgb(158, 202, 225);
+  display: flex;  
+}
+
+.Category {
+  margin-top: 10px;
+}
+
+.HNWait {
+  width: 150px;
+  height: auto;
+}
+
